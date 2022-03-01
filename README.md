@@ -16,3 +16,18 @@ composer require drupal/pathauto
 * drush kurmak için
 
 composer require drush/drush
+
+
+## workflow modülü 
+
+
+https://www.drupal.org/project/workflow
+
+The workflow module enables you to create arbitrary workflows in Drupal and associate them with entities. A Workflow is made up of workflow states. Moving from one state to another is called a transition.
+
+
+* bak
+
+* https://www.drupal.org/node/1027546
+
+* https://www.drupal.org/project/rules
