@@ -29,7 +29,7 @@ composer require drupal/pathauto
 composer require drush/drush
 
 
-## workflow modülü 
+## workflow
 
 
 https://www.drupal.org/project/workflow
@@ -44,3 +44,5 @@ The workflow module enables you to create arbitrary workflows in Drupal and asso
 * https://www.drupal.org/project/rules
 
 * https://www.drupal.org/project/workflow
+
+
