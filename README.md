@@ -1,5 +1,16 @@
 # drupal-notes
 
+Menu başlıkları (admin toolbar)
+content: içerik crud işlemleri
+structure: ekranda görünecek block verileri ve içerik türlerinin (entity) oluşturulması ve yapılandırılması 
+appearence: görünümün özelleştirilmesi
+extend: yeni modül kurma ve kaldırma
+configuration: sistemdeki birçok ayar, yeni kurulan modüllerin ayarları burada çıkar.
+people: kullanıcı, role ve yetkiler
+reports: sistem raporları
+help
+
+
 
 https://www.drupal.org/docs/develop/using-composer/starting-a-site-using-drupal-composer-project-templates
 
